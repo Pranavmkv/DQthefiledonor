@@ -203,6 +203,4 @@ This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](h
 
 [![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/s-aHYJ?referralCode=DdKCy6)
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Pranavmkv/PROFESSOR-BOT&branch=V2&name=AutofilterbotV3)
+https://railway.app/new/template/kD8LwE?referralCode=roWC2s
